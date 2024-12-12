@@ -16,10 +16,10 @@ La inteligencia artificial (IA) se puede aplicar a la digitalización en negocio
 * Sector: Entretenimiento y Tecnología (videojuegos y hardware de videojuegos).
 * Características principales:
 1.  **<ins>Tamaño de la empresa:</ins>**
-*** Nintendo es una gran empresa multinacional con más de 7,000 empleados en todo el mundo. 
-*** Facturación anual superior a los 15,000 millones de dólares. 
-*** Oficinas centrales en Kyoto, Japón, con sucursales y filiales en América del Norte, Europa y Asia.
-2.  **Productos y servicios:**
+Nintendo es una gran empresa multinacional con más de 7,000 empleados en todo el mundo. 
+Facturación anual superior a los 15,000 millones de dólares. 
+Oficinas centrales en Kyoto, Japón, con sucursales y filiales en América del Norte, Europa y Asia.
+2.  **<ins>Productos y servicios:</ins>**
 *** Consolas de videojuegos: 
 **** Nintendo Switch: Consola híbrida (portátil y de sobremesa) que combina innovación en diseño y facilidad de uso. 
 **** Accesorios: Controladores, tarjetas de memoria y periféricos exclusivos como el Nintendo Switch Pro Controller. 
