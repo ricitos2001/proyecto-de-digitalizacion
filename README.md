@@ -26,7 +26,7 @@ Entretenimiento y Tecnología (videojuegos y hardware de videojuegos).
 **Consolas de videojuegos**
 * Nintendo Switch: Consola híbrida (portátil y de sobremesa) que combina innovación en diseño y facilidad de uso. 
 * Accesorios: Controladores, tarjetas de memoria y periféricos exclusivos como el Nintendo Switch Pro Controller.<br>
-**Videojuegos**<br>
+**Videojuegos**
 * Franquicias icónicas como Super Mario, The Legend of Zelda, Pokémon, Animal Crossing y Metroid. 
 * Desarrollo y publicación de títulos propios (first-party) y apoyo a desarrolladores externos (third-party).<br>
 **Servicios digitales**
