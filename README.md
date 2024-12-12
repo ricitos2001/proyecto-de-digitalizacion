@@ -11,6 +11,7 @@ La inteligencia artificial (IA) se puede aplicar a la digitalización en negocio
 * Mejora de procesos de negocio: La IA puede automatizar tareas y procesos, lo que aumenta la eficiencia y reduce errores.
 * Optimización de la experiencia del cliente: La IA puede analizar datos de clientes y personalizar recomendaciones y acceso a servicios.
 * Impacto en la economía: La IA puede transformar industrias y crear oportunidades de mercado.
+
 ## Selecciona un sector y una empresa: Define una empresa (ficticia o real) de un sector concreto y especifica sus características principales (tamaño, productos, clientes, etc.).
 * Nombre de la empresa: Nintendo Co., Ltd.
 * Sector: Entretenimiento y Tecnología (videojuegos y hardware de videojuegos).
@@ -20,9 +21,9 @@ Nintendo es una gran empresa multinacional con más de 7,000 empleados en todo e
 Facturación anual superior a los 15,000 millones de dólares. 
 Oficinas centrales en Kyoto, Japón, con sucursales y filiales en América del Norte, Europa y Asia.
 2.  **<ins>Productos y servicios:</ins>**
-*** Consolas de videojuegos: 
-**** Nintendo Switch: Consola híbrida (portátil y de sobremesa) que combina innovación en diseño y facilidad de uso. 
-**** Accesorios: Controladores, tarjetas de memoria y periféricos exclusivos como el Nintendo Switch Pro Controller. 
+2.1)  Consolas de videojuegos: 
+* Nintendo Switch: Consola híbrida (portátil y de sobremesa) que combina innovación en diseño y facilidad de uso. 
+* Accesorios: Controladores, tarjetas de memoria y periféricos exclusivos como el Nintendo Switch Pro Controller. 
 *** Videojuegos: 
 **** Franquicias icónicas como Super Mario, The Legend of Zelda, Pokémon, Animal Crossing y Metroid. 
 **** Desarrollo y publicación de títulos propios (first-party) y apoyo a desarrolladores externos (third-party). 
@@ -31,7 +32,7 @@ Oficinas centrales en Kyoto, Japón, con sucursales y filiales en América del N
 **** Nintendo Switch Online: Suscripción para juego en línea, acceso a clásicos de NES y SNES, y almacenamiento en la nube. 
 *** Productos derivados: 
 **** Merchandising oficial como ropa, juguetes, figuras coleccionables (Amiibo) y colaboraciones con marcas de otros sectores. 
-3.  **Clientes:**
+3.  **<ins>Clientes:</ins>**
 *** Niños y familias: Nintendo se posiciona como una marca accesible y adecuada para todas las edades. 
 *** Jugadores casuales: Productos diseñados para ofrecer experiencias sencillas e intuitivas. 
 *** Jugadores nostálgicos: Clientes que buscan revivir las experiencias de los clásicos de Nintendo con consolas mini y juegos remasterizados. 
