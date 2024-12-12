@@ -24,19 +24,16 @@ Entretenimiento y Tecnología (videojuegos y hardware de videojuegos).
 * Oficinas centrales en Kyoto, Japón, con sucursales y filiales en América del Norte, Europa y Asia.
 2.  **<ins>Productos y servicios:</ins>**
   
-**Consolas de videojuegos**
+* **Consolas de videojuegos**
 * Nintendo Switch: Consola híbrida (portátil y de sobremesa) que combina innovación en diseño y facilidad de uso. 
 * Accesorios: Controladores, tarjetas de memoria y periféricos exclusivos como el Nintendo Switch Pro Controller.
-
-**Videojuegos**
+* **Videojuegos**
 * Franquicias icónicas como Super Mario, The Legend of Zelda, Pokémon, Animal Crossing y Metroid. 
 * Desarrollo y publicación de títulos propios (first-party) y apoyo a desarrolladores externos (third-party)
-
-**Servicios digitales**
+* **Servicios digitales**
 * Nintendo eShop: Tienda en línea para adquirir videojuegos, complementos y contenido descargable. 
 * Nintendo Switch Online: Suscripción para juego en línea, acceso a clásicos de NES y SNES, y almacenamiento en la nube.
-
-**Productos derivados**
+* **Productos derivados**
 * Merchandising oficial como ropa, juguetes, figuras coleccionables (Amiibo) y colaboraciones con marcas de otros sectores.
 3.  **<ins>Clientes:</ins>**<br>
 * Niños y familias: Nintendo se posiciona como una marca accesible y adecuada para todas las edades. 
