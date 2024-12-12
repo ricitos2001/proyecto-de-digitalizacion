@@ -15,11 +15,11 @@ La inteligencia artificial (IA) se puede aplicar a la digitalización en negocio
 * Nombre de la empresa: Nintendo Co., Ltd.
 * Sector: Entretenimiento y Tecnología (videojuegos y hardware de videojuegos).
 * Características principales:
-1.  Tamaño de la empresa:
+1.  **<u>Tamaño de la empresa:</u>**
 *** Nintendo es una gran empresa multinacional con más de 7,000 empleados en todo el mundo. 
 *** Facturación anual superior a los 15,000 millones de dólares. 
 *** Oficinas centrales en Kyoto, Japón, con sucursales y filiales en América del Norte, Europa y Asia.
-** Productos y servicios:
+2.  **<u>Productos y servicios:</u>**
 *** Consolas de videojuegos: 
 **** Nintendo Switch: Consola híbrida (portátil y de sobremesa) que combina innovación en diseño y facilidad de uso. 
 **** Accesorios: Controladores, tarjetas de memoria y periféricos exclusivos como el Nintendo Switch Pro Controller. 
@@ -31,28 +31,28 @@ La inteligencia artificial (IA) se puede aplicar a la digitalización en negocio
 **** Nintendo Switch Online: Suscripción para juego en línea, acceso a clásicos de NES y SNES, y almacenamiento en la nube. 
 *** Productos derivados: 
 **** Merchandising oficial como ropa, juguetes, figuras coleccionables (Amiibo) y colaboraciones con marcas de otros sectores. 
-** Clientes:
+3.  **Clientes:**
 *** Niños y familias: Nintendo se posiciona como una marca accesible y adecuada para todas las edades. 
 *** Jugadores casuales: Productos diseñados para ofrecer experiencias sencillas e intuitivas. 
 *** Jugadores nostálgicos: Clientes que buscan revivir las experiencias de los clásicos de Nintendo con consolas mini y juegos remasterizados. 
-** Cobertura geográfica:
+4.  **Cobertura geográfica:**
 *** Presencia global: Oficinas y centros de distribución en América, Europa, Asia y Oceanía. 
 *** Distribución en casi todos los mercados principales del mundo, con fuerte posicionamiento en Japón, América del Norte y Europa. 
-** Propuesta de valor:
+5.  **Propuesta de valor:**
 *** Nintendo ofrece una combinación de innovación y accesibilidad en hardware y software que prioriza la diversión y la experiencia del usuario sobre las especificaciones técnicas puras. 
 *** Franquicias propias que generan una fuerte lealtad de marca y atraen a una amplia base de jugadores. 
-** Innovación:
+6.  **Innovación:**
 *** Desarrollo de consolas revolucionarias como Nintendo Wii (2006) con controles por movimiento, y Nintendo Switch (2017) con capacidad híbrida. 
 *** Pioneros en experiencias de juego familiares y sociales. 
 *** Uso de tecnologías como Amiibo, que combinan videojuegos con figuras físicas mediante conectividad NFC. 
-** Sostenibilidad y responsabilidad social:
+7.  **Sostenibilidad y responsabilidad social:**
 *** Uso de embalajes reciclables y esfuerzos para reducir la huella de carbono en su producción y distribución. 
 *** Programas de educación y caridad, especialmente en Japón, enfocados en apoyar a la juventud y la creatividad. 
-** Cultura organizacional:
+8.  **Cultura organizacional:**
 *** Fuerte enfoque en la innovación y el entretenimiento como pilares fundamentales. 
 *** Promoción de un ambiente de trabajo colaborativo, que combina creatividad con enfoque en resultados. 
 *** Filosofía de diseño centrada en crear experiencias únicas e inclusivas para jugadores de todas las edades y niveles de experiencia. 
-** Retos actuales:
+9. <u>**Retos actuales:**</u>
 *** Competencia en el mercado de videojuegos por parte de Sony, Microsoft y empresas emergentes en servicios de streaming de videojuegos. 
 *** La necesidad de adaptarse a las crecientes demandas del juego en la nube y los servicios digitales.
 
