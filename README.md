@@ -61,20 +61,20 @@ Entretenimiento y Tecnología (videojuegos y hardware de videojuegos).
 
 ## Propón tecnologías: Elabora una lista de 3-5 tecnologías de digitalización, diferenciando entre aquellas que pueden aplicarse en planta y en negocio.
 ### Tecnologías que se pueden aplicar en la digitalización en planta:
-* Robots: Un clásico de fábricas y almacenes, en el que se pueden automatizar tareas para ser más ágiles y productivos. La popularización de las dos tecnologías de las que vamos a hablar a continuación, el IoT y el big data, mejora en ellos la automatización y programación de tareas.
-* Internet of Things (IoT): Los dispositivos y sensores conectados a internet recopilan datos que se envían a un sistema central. Gracias a ello, se puede conocer en tiempo real el funcionamiento de las máquinas o de la cadena de suministro y realizar cambios si son necesarios. Estos dispositivos y sensores se instalan en maquinaria, electrodomésticos, muebles, cámaras de seguridad…
-* Big data: Conforme los datos se recopilan, hay que almacenarlos, gestionarlos y analizarlos. Para esto último, las herramientas de inteligencia empresarial (business intelligence) son esenciales, porque permiten a los empleados tomar mejores decisiones, con fundamento en esos datos. Además, al almacenarse, estos van creando un repositorio que puede venir muy bien en el futuro para detectar y analizar series históricas.
-* Cloud computing: La computación en la nube reduce el número de servidores físicos, mientras que permite a los trabajadores acceder al software corporativo o a los datos desde más ubicaciones.
-* Gemelos digitales: La reproducción virtual tridimensional de máquinas, construcciones y objetos sirve para tomar mejores decisiones o hacer cambios en prototipos de forma más rápida que en modelos físicos.
+* **Robots:** Un clásico de fábricas y almacenes, en el que se pueden automatizar tareas para ser más ágiles y productivos. La popularización de las dos tecnologías de las que vamos a hablar a continuación, el IoT y el big data, mejora en ellos la automatización y programación de tareas.
+* **Internet of Things (IoT):** Los dispositivos y sensores conectados a internet recopilan datos que se envían a un sistema central. Gracias a ello, se puede conocer en tiempo real el funcionamiento de las máquinas o de la cadena de suministro y realizar cambios si son necesarios. Estos dispositivos y sensores se instalan en maquinaria, electrodomésticos, muebles, cámaras de seguridad…
+* **Big data:** Conforme los datos se recopilan, hay que almacenarlos, gestionarlos y analizarlos. Para esto último, las herramientas de inteligencia empresarial (business intelligence) son esenciales, porque permiten a los empleados tomar mejores decisiones, con fundamento en esos datos. Además, al almacenarse, estos van creando un repositorio que puede venir muy bien en el futuro para detectar y analizar series históricas.
+* **Cloud computing:** La computación en la nube reduce el número de servidores físicos, mientras que permite a los trabajadores acceder al software corporativo o a los datos desde más ubicaciones.
+* **Gemelos digitales:** La reproducción virtual tridimensional de máquinas, construcciones y objetos sirve para tomar mejores decisiones o hacer cambios en prototipos de forma más rápida que en modelos físicos.
 ### Tecnologías que se pueden aplicar en la digitalización en negocio:
-* Cloud computing: es el suministro de recursos informáticos a petición, desde aplicaciones hasta centros de datos, a través de Internet y con un modelo de pago según el uso.
-IoT e IoB (5G y 6G): consiste en el análisis de los datos obtenidos por todos los aparatos conectados a internet, para reconocer comportamientos y patrones de interés.
-* Inteligencia Artificial: es la habilidad de una máquina o software de presentar capacidades similares a los seres humanos, como el razonamiento, el aprendizaje, la creatividad o la capacidad de planear.
-* Machine learning: es el área de la Inteligencia Artificial, en el cual los ordenadores aplican técnicas de aprendizaje estadístico con el objetivo de identificar automáticamente patrones en los datos.
-* Business intelligence: es el conjunto de herramientas y procesos que permiten la preparación, la minería, la gestión y la visualización de datos.
-Redes sociales, marketing digital y eCommerce: es aquel tipo de marketing que utiliza cualquier herramienta digital a su alcance para facilitar y obtener mejores resultados.
-* Blockchain aplicado a transformación digital: es una tecnología que permite, a través de técnicas criptográficas, la agilización de transacciones complejas.
-3D printing o fabricación aditiva: es un conjunto de procesos que genera objetos añadiendo material a las capas que corresponden a secciones transversales sucesivas de un modelo 3D.
+* **Cloud computing:** es el suministro de recursos informáticos a petición, desde aplicaciones hasta centros de datos, a través de Internet y con un modelo de pago según el uso.
+* **IoT e IoB (5G y 6G):** consiste en el análisis de los datos obtenidos por todos los aparatos conectados a internet, para reconocer comportamientos y patrones de interés.
+* **Inteligencia Artificial:** es la habilidad de una máquina o software de presentar capacidades similares a los seres humanos, como el razonamiento, el aprendizaje, la creatividad o la capacidad de planear.
+* **Machine learning:** es el área de la Inteligencia Artificial, en el cual los ordenadores aplican técnicas de aprendizaje estadístico con el objetivo de identificar automáticamente patrones en los datos.
+* **Business intelligence:** es el conjunto de herramientas y procesos que permiten la preparación, la minería, la gestión y la visualización de datos.
+* **Redes sociales, marketing digital y eCommerce:** es aquel tipo de marketing que utiliza cualquier herramienta digital a su alcance para facilitar y obtener mejores resultados.
+* **Blockchain aplicado a transformación digital:** es una tecnología que permite, a través de técnicas criptográficas, la agilización de transacciones complejas.
+* **3D printing o fabricación aditiva:** es un conjunto de procesos que genera objetos añadiendo material a las capas que corresponden a secciones transversales sucesivas de un modelo 3D.
 
 ## Crea un diagrama con Mermaid: Haz un diagrama que represente la estructura de IT y OT de la empresa, y cómo las tecnologías de IA afectan a los procesos clave. Usa Mermaid para crearlo.
 
