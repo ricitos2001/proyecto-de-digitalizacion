@@ -1,4 +1,5 @@
 # Diseño de la transformación digital de un sector usando IA
+* Traajo realizado por: Cesar Gabriel Ucha Sousa, Abrahan y Javier
 ## Estudia los conceptos: Aprende la diferencia entre digitalización en planta y en negocio. Investiga cómo la IA puede aplicarse en ambos casos.
 ### Diferencia entre digitalización en planta y digitalización en negocio:
 La digitalización en planta se centra en mejorar la eficiencia y la precisión de los procesos de producción y la digitalización en negocio se centra en mejorar la eficiencia y la efectividad de los procesos de negocio.
