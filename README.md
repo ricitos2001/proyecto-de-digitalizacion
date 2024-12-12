@@ -77,8 +77,7 @@ Entretenimiento y Tecnología (videojuegos y hardware de videojuegos).
 * **3D printing o fabricación aditiva:** es un conjunto de procesos que genera objetos añadiendo material a las capas que corresponden a secciones transversales sucesivas de un modelo 3D.
 
 ## Crea un diagrama con Mermaid: Haz un diagrama que represente la estructura de IT y OT de la empresa, y cómo las tecnologías de IA afectan a los procesos clave. Usa Mermaid para crearlo.
-[](./assets/)
-
+![diagrama](assets/Ni)
 
 ## Elabora una propuesta de transformación digital: Describe cómo la IA optimiza los procesos de planta y negocio, destacando las ventajas que esta transformación aporta a la empresa y al sector.
 
