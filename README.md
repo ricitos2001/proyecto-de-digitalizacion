@@ -38,7 +38,7 @@ Entretenimiento y Tecnología (videojuegos y hardware de videojuegos).
 
 **Productos derivados**
 * Merchandising oficial como ropa, juguetes, figuras coleccionables (Amiibo) y colaboraciones con marcas de otros sectores.
-3.  **<ins>Clientes:</ins>**<br><br>
+3.  **<ins>Clientes:</ins>**<br>
 * Niños y familias: Nintendo se posiciona como una marca accesible y adecuada para todas las edades. 
 * Jugadores casuales: Productos diseñados para ofrecer experiencias sencillas e intuitivas. 
 * Jugadores nostálgicos: Clientes que buscan revivir las experiencias de los clásicos de Nintendo con consolas mini y juegos remasterizados. 
