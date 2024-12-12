@@ -15,7 +15,7 @@ La inteligencia artificial (IA) se puede aplicar a la digitalización en negocio
 * Nombre de la empresa: Nintendo Co., Ltd.
 * Sector: Entretenimiento y Tecnología (videojuegos y hardware de videojuegos).
 * Características principales:
-1.  **<u>Tamaño de la empresa:</u>**
+1.  <u>Tamaño de la empresa:</u>
 *** Nintendo es una gran empresa multinacional con más de 7,000 empleados en todo el mundo. 
 *** Facturación anual superior a los 15,000 millones de dólares. 
 *** Oficinas centrales en Kyoto, Japón, con sucursales y filiales en América del Norte, Europa y Asia.
