@@ -128,4 +128,5 @@ La inteligencia artificial (IA) está rediseñando el mundo empresarial actual y
 
 ## Bibliografía
 https://en.wikipedia.org/wiki/List_of_Nintendo_development_teams
+
 https://www.nintendo.com/es-es/Empresa/Empresa-625946.html?srsltid=AfmBOorqaGE_8GcMARrgtEZ0kMsJDISMijtWmmKs5P5HSOwjzYSHmkk3
