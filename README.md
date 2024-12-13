@@ -125,3 +125,7 @@ La transformación digital de una empresa mediante la implementación de tecnolo
 ## Reflexiona sobre el impacto de la IA: Redacta un pequeño párrafo sobre la importancia presente y futura de la IA en la empresa y el sector.
 
 La inteligencia artificial (IA) está rediseñando el mundo empresarial actual y las industrias líderes del futuro. Desde la optimización de las operaciones y los procesos de toma de decisiones hasta el filtrado y la estructuración de enormes volúmenes de datos, la IA también se utiliza para crear experiencias personalizadas para el consumidor, aumentando así la eficiencia y la competitividad. En el futuro, la IA optimizará los modelos de negocio para impulsar innovaciones que, a día de hoy, parecen sacadas de una película de ciencia ficción. Desde una automatización más avanzada y una mejor capacidad de previsión de las tendencias del mercado hasta el diseño de productos y servicios completamente nuevos, la IA se encuentra en el corazón de la transformación digital, acercando a las empresas al crecimiento sostenible y a una ventaja competitiva en medio de un panorama global complejo y en constante evolución.
+
+## Bibliografía
+https://en.wikipedia.org/wiki/List_of_Nintendo_development_teams
+https://www.nintendo.com/es-es/Empresa/Empresa-625946.html?srsltid=AfmBOorqaGE_8GcMARrgtEZ0kMsJDISMijtWmmKs5P5HSOwjzYSHmkk3
